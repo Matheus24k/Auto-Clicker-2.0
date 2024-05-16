@@ -42,7 +42,7 @@ Auto Clicker is a Python program designed to automate mouse clicking at a specif
 
 ## Screenshot
 
-![Auto Clicker Screenshot](/assets/images/screenshot.png)
+![Auto Clicker Screenshot](assets/images/screenshot.png)
 
 ## License
 
