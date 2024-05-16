@@ -46,4 +46,4 @@ Auto Clicker is a Python program designed to automate mouse clicking at a specif
 
 ## License
 
-This project is licensed under the [MIT License](/path/to/LICENSE).
+This project is licensed under the [MIT License](LICENSE).
